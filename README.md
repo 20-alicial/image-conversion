@@ -7,3 +7,5 @@ p36.c converts P3 files to P6,
 p63.c converts P6 files to P3,
 p3z.c converts P3 files to PZ,
 pz3.c converrts PZ files to P3.
+
+utils.c contains helper functions that one or more tools may use.
